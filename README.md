@@ -3,4 +3,4 @@ Pink heart
 what is the discription of your project?
 It is a very nice pink heart
 how to run your code?
-by pressing the home button
+by pressing the play button
